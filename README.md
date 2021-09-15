@@ -10,4 +10,5 @@ Jedes Kapitel hat einen Input-File. Um Merge-Konflikte zu verhindern wird angera
 # Versionen:
 Es gibt eine Version mit Ordnerstruktur und ohne, je nach Präferenz.
 
+# Probleme?
 Anregung oder Verbesserungen eröffnet einfach ein Issue und ich werde es mir ansehen!
