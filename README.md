@@ -1,7 +1,9 @@
 # Praktikums Vorlage
 Latex-Vorlage für das physikalische Praktikum an der Universität Bayreuth zum Zusammenarbeiten über GitHub und gegebenfalls VS-Code.
 
-![altText](Cover_PraktikumsVorlage.png)
+<p align="center">
+  <img src="Cover_PraktikumsVorlage.png" />
+</p>
 
 ## Gitignore
 Die .gitignore Datei filtert alle Nebenlatex-Dateien und verhindert ein Commit dieser, da sonst nur Merge-Konflikte entstehen. Bei pdf-Dateien werden nur die Versuch_*.pdf Dateien gefiltert, wenn dies anders gewünscht ist einfach selbst abändern.
