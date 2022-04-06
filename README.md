@@ -13,6 +13,3 @@ Jedes Kapitel hat einen Input-File. Um Merge-Konflikte zu verhindern wird angera
 
 ## Versionen
 Es gibt eine Version mit Ordnerstruktur und ohne, je nach Präferenz. Auch eine Englische Version ist vorhanden für den Fall das diese benötigt wird.
-
-## Probleme?
-Anregung oder Verbesserungen eröffnet einfach ein Issue und ich werde es mir ansehen!
